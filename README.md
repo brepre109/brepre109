@@ -36,4 +36,4 @@
 [jsonlake](https://github.com/brepre109/jsonlake) (Rust JSON→SQLite + jq) · [sshmc](https://github.com/brepre109/sshmc) (dual-pane SSH file commander) · [show-ports](https://github.com/brepre109/show-ports) · [mdv](https://github.com/brepre109/mdv) · [sheets-clone](https://github.com/brepre109/sheets-clone) (Tauri spreadsheet)
 
 #### 🎮 Games (play in the browser)
-[Cinderbanner](https://brepre109.github.io/cinderbanner/) (Three.js tactical RPG) · [Marble Machine](https://brepre109.github.io/marble-machine/) · [Brick Mart](https://brepre109.github.io/brick-mart/) · [Jamblob Sandbox](https://brepre109.github.io/jamblob-sandbox/)
+[Banners of the Realm](https://brepre109.github.io/banners-of-the-realm/) (TypeScript strategy game: rules kernel, AI, map generator + editor, 2,300+ tests) · [Cinderbanner](https://brepre109.github.io/cinderbanner/) (Three.js tactical RPG) · [Marble Machine](https://brepre109.github.io/marble-machine/) · [Brick Mart](https://brepre109.github.io/brick-mart/) · [Jamblob Sandbox](https://brepre109.github.io/jamblob-sandbox/)
