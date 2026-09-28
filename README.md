@@ -12,6 +12,7 @@
 | Repo | What it does |
 |---|---|
 | [shopify-tiered-discount-function](https://github.com/brepre109/shopify-tiered-discount-function) | Rust Shopify Function (Discount API) for quantity tiers and tag-based wholesale pricing; benchmarked against the 11M-instruction limit |
+| [shopify-fast-storefront](https://github.com/brepre109/shopify-fast-storefront) | Accessible headless Next.js storefront on Storefront-API-shaped data: Lighthouse 94–100, axe-tested variant picker and cart drawer |
 | [shopify-bulk-toolkit](https://github.com/brepre109/shopify-bulk-toolkit) | Safe bulk catalog edits over Admin GraphQL: mandatory dry-run plans, cost-aware throttling, resumable journal |
 | [commerce-order-sync-lab](https://github.com/brepre109/commerce-order-sync-lab) | Idempotent Shopify → ERP order sync: HMAC webhooks, inbox/outbox, retries, dead-letter replay, fault injection |
 | [omnichannel-event-mapper](https://github.com/brepre109/omnichannel-event-mapper) | Shopify, Amazon and TikTok Shop order and shipment events → one canonical timeline, with data-quality warnings |
